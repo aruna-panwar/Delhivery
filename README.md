@@ -79,4 +79,13 @@ Handling categorical values
 
 Missing values - Outlier treatment / Types of outliers
 
+# Build some features to prepare the data for actual analysis. 
+
+Extract features from the below fields:
+
+Destination Name: Split and extract features out of destination. City-place-code (State)
+
+Source Name: Split and extract features out of destination. City-place-code (State)
+
+Trip_creation_time: Extract features like month, year and day etc
 
