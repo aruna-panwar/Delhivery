@@ -91,7 +91,7 @@ Trip_creation_time: Extract features like month, year and day etc
 
 # In-depth analysis and feature engineering:
 
-# Calculate the time taken between od_start_time and od_end_time and keep it as a feature. Drop the original columns, if required
+Calculate the time taken between od_start_time and od_end_time and keep it as a feature. Drop the original columns, if required
 
 Compare the difference between Point a. and start_scan_to_end_scan. Do hypothesis testing/ Visual analysis to check.
 
